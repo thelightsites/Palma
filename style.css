@@ -260,21 +260,20 @@ footer {
   border-style: dashed;
   background-color: #42b883;
   width: 20%;
-  height: 600px;
-  margin: 40px 0 0 100px;
+  height: 550px;
+  margin: 120px 0 0 200px;
   font-size: 50px;
-  padding: 60px 0 0 0;
-}
-
-.coupon2 {
-  text-align: center;
-  border: 1px solid white;
-  background-color: #42b883;
-  width: 20%;
-  height: 700px;
 }
 
 
+.smallTextCoupon {
+  margin-top: -100px;
+}
+
+.inStoreText {
+  font-size: 15px;
+  margin-top: -138px;
+}
 
 @media (max-width:760px) {
   .content h1 {
