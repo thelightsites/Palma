@@ -254,6 +254,28 @@ footer {
   color:black;
 }
 
+.coupon1 {
+  text-align: center;
+  border: 2px solid white;
+  border-style: dashed;
+  background-color: #42b883;
+  width: 20%;
+  height: 600px;
+  margin: 40px 0 0 100px;
+  font-size: 50px;
+  padding: 60px 0 0 0;
+}
+
+.coupon2 {
+  text-align: center;
+  border: 1px solid white;
+  background-color: #42b883;
+  width: 20%;
+  height: 700px;
+}
+
+
+
 @media (max-width:760px) {
   .content h1 {
     font-size: 550%;
