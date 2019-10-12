@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:800|Poppins:500');
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 html, body {
   margin: 0;
   padding: 0;
@@ -284,7 +286,7 @@ footer {
   color: #fcf9ea;
 }
 
-@media (max-width:760px) {
+@media (max-width:600px) {
   .content h1 {
     font-size: 550%;
   }
@@ -296,5 +298,9 @@ footer {
   p {
     font-size: 100%;
     line-height: 160%;
+  }
+
+  .logoImg {
+    max-width: 30%;
   }
 }
