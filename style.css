@@ -275,6 +275,15 @@ footer {
   margin-top: -138px;
 }
 
+.navTabs {
+  background-color:
+}
+
+footer {
+  background-color: #272121;
+  color: #fcf9ea;
+}
+
 @media (max-width:760px) {
   .content h1 {
     font-size: 550%;
